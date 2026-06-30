@@ -1,5 +1,7 @@
 # LeetCode Solutions
 
+[My LeetCode Profile](https://leetcode.com/u/YOUR_USERNAME/)
+
 This repository contains my accepted solutions to LeetCode problems.
 
 The solutions are automatically synced to GitHub using **LeetHub 2.0** after each accepted submission.

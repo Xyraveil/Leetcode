@@ -45,8 +45,13 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

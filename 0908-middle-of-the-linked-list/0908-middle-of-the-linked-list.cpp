@@ -11,21 +11,32 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* curr = head;
-        int size = 0;
-        while(curr!= nullptr)
+        /////////////////////////////////////// Iterative answer:
+        // ListNode* curr = head;
+        // int size = 0;
+        // while(curr!= nullptr)
+        // {
+        //     curr = curr->next;
+        //     size++;
+        // }
+        // size = size/2 +1;
+        // curr = head;
+        // int i = 1;
+        // while(i!=size)
+        // {
+        //     curr = curr->next;
+        //     i++;
+        // }
+        // return curr;
+        ////////////////////////////////////////// Recursive answer:
+        ListNode* slow = head, * fast = head;
+        bool b = false;
+        while(fast!=nullptr)
         {
-            curr = curr->next;
-            size++;
+            if(b) slow = slow->next;
+            b =!b;
+            fast = fast->next;
         }
-        size = size/2 +1;
-        curr = head;
-        int i = 1;
-        while(i!=size)
-        {
-            curr = curr->next;
-            i++;
-        }
-        return curr;
+        return slow;
     }
 };

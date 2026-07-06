@@ -41,4 +41,12 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

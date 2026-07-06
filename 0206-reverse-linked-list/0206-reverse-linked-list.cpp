@@ -10,16 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        while(head!=nullptr)
+//////////////////////////////////////////////////////// Iterative Answer:
+    // ListNode* reverseList(ListNode* head) {
+    //     ListNode* prev = nullptr;
+    //     while(head!=nullptr)
+    //     {
+    //         ListNode* temp ;
+    //         temp = head->next;
+    //         head->next = prev;
+    //         prev = head;
+    //         head = temp;
+    //     }
+    //     return prev;
+    // }
+//////////////////////////////////////////////////////// recursive Answer:R
+    ListNode* reverseList(ListNode* head,ListNode* prev = nullptr) {
+        if(head == nullptr)
         {
-            ListNode* temp ;
-            temp = head->next;
-            head->next = prev;
-            prev = head;
-            head = temp;
+            return prev;
         }
-        return prev;
+        ListNode* temp = head->next;
+        head->next = prev;
+        return reverseList(temp,head);
     }
 };

@@ -44,6 +44,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Xyraveil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -54,6 +55,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Xyraveil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

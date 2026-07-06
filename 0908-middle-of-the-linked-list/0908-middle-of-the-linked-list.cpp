@@ -28,7 +28,7 @@ public:
         //     i++;
         // }
         // return curr;
-        ////////////////////////////////////////// Recursive answer:
+        ////////////////////////////////////////// using SlowFast pointers:
         ListNode* slow = head, * fast = head;
         bool b = false;
         while(fast!=nullptr)

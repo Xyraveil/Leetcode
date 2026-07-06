@@ -11,30 +11,50 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int size = 0;
-        ListNode* curr = head;
-        while(curr)
+        ///////////////////////////////////////////// Normal Iterative Soln:
+        // int size = 0;
+        // ListNode* curr = head;
+        // while(curr)
+        // {
+        //     curr = curr->next;
+        //     size++;
+        // }
+        // int steps = size -n;
+        // if(steps ==0)
+        // {
+        //     ListNode* temp = head;
+        //     head = head->next;
+        //     delete temp;
+        //     return head;
+        // }
+        // curr = head;
+        // steps--;
+        // while(steps--)
+        // {
+        //     curr=curr->next;
+        // }
+        // ListNode* temp = curr->next;
+        // curr-> next = curr->next->next;
+        // delete temp;
+        // return head;
+        //////////////////////////////////////////////////////////// SlowFast pointer Approach:
+
+        ListNode* fast ,*slow;
+        ListNode* pre = new ListNode(0,head);
+        slow = fast = pre;
+        while(n--)
         {
-            curr = curr->next;
-            size++;
+            fast = fast->next;
         }
-        int steps = size -n;
-        if(steps ==0)
+        while(fast->next)
         {
-            ListNode* temp = head;
-            head = head->next;
-            delete temp;
-            return head;
+            fast = fast->next;
+            slow = slow ->next;
         }
-        curr = head;
-        steps--;
-        while(steps--)
-        {
-            curr=curr->next;
-        }
-        ListNode* temp = curr->next;
-        curr-> next = curr->next->next;
+
+        ListNode* temp = slow->next;
+        slow->next = temp->next;
         delete temp;
-        return head;
+        return pre->next;
     }
 };

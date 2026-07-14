@@ -65,4 +65,20 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

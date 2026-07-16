@@ -2,6 +2,7 @@ class Solution {
 public:
     bool DFS(int src,int col, vector<vector<int>>& graph, vector<int>& color )
     {
+        color[src]=col;
         for(auto it: graph[src])
         {
             if(color[it]==0)
@@ -24,8 +25,7 @@ public:
         {
             if(color[i]==0)
             {
-                color[i]=-1;
-                if(!DFS(i,color[i],graph,color))
+                if(!DFS(i,-1,graph,color))
                 return false;
             }
         }

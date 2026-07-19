@@ -77,6 +77,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Xyraveil/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Xyraveil/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1300-critical-connections-in-a-network](https://github.com/Xyraveil/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0210-course-schedule-ii](https://github.com/Xyraveil/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Xyraveil/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1300-critical-connections-in-a-network](https://github.com/Xyraveil/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Matrix
 |  |
 | ------- |
@@ -111,4 +113,8 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0207-course-schedule](https://github.com/Xyraveil/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Xyraveil/Leetcode/tree/master/0210-course-schedule-ii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Xyraveil/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

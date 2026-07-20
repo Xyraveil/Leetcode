@@ -32,6 +32,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Xyraveil/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Xyraveil/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -82,6 +84,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Xyraveil/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Xyraveil/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -93,6 +96,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Xyraveil/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -107,6 +111,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Xyraveil/Leetcode/tree/master/0733-flood-fill) |

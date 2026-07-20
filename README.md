@@ -38,6 +38,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Xyraveil/Leetcode/tree/master/0733-flood-fill) |
 | [0833-bus-routes](https://github.com/Xyraveil/Leetcode/tree/master/0833-bus-routes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Xyraveil/Leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +134,8 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

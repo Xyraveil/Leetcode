@@ -34,6 +34,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
+| [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Xyraveil/Leetcode/tree/master/0733-flood-fill) |
@@ -144,4 +145,16 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Xyraveil/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Math
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->

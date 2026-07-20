@@ -42,12 +42,23 @@ public:
                 return busNo;
             }
             
-            for(int it:adjRoutes[routeNo])
+            // for(int it:adjRoutes[routeNo])
+            // {
+            //     if(!vis[it])
+            //     {
+            //         vis[it]=1;
+            //         q.push({it,busNo+1});
+            //     }
+            // }
+            for(int bs:routes[routeNo])
             {
-                if(!vis[it])
+                for(int it:adj[bs])
                 {
-                    vis[it]=1;
-                    q.push({it,busNo+1});
+                   if(!vis[it])
+                    {
+                        vis[it]=1;
+                        q.push({it,busNo+1});
+                    } 
                 }
             }
         }

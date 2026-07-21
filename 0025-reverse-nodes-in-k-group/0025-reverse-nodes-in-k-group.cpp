@@ -10,44 +10,40 @@
  */
 class Solution {
 public:
-    void reverseK(ListNode*Head,int k,ListNode* prevTail )
-    {
-        int x = k;
-        if(!Head) 
-        {
-            prevTail->next = nullptr;
-            return;
-        }
-        ListNode* curr = Head->next; 
-        ListNode* prev= Head; 
-
-        while(--k && curr)
-        {
-            curr=curr->next;
-            continue;
-        }
-        if(k>0) 
-        {
-            prevTail->next = Head;
-            return;
-        }
-        k=x;
-        curr = Head->next;
-        while(--k && curr)
-        {
-            ListNode* nxt = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nxt;
-        }
-        prevTail->next = prev;
-        return reverseK(curr,x,Head);
-    }
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if(k==1) return head;
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
-        reverseK(head,k,dummy);
+        ListNode *left, *right;
+        left = dummy;
+        right = head;
+        int x = k;
+        while(true)
+        {
+            k = x;
+            ListNode* temp1 = right;
+            for (int i = 0; i < x; i++)
+            {
+                if (!temp1)
+                    return dummy->next;
+
+                temp1 = temp1->next;
+            }
+            ListNode* curr = left->next->next;
+            ListNode* prev = left->next;
+
+            while(--k)
+            {
+                ListNode* temp = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = temp;
+            }
+            left->next->next = curr;
+            ListNode* temp = left->next;
+            left->next = prev;
+            left = temp;
+            right = curr;
+        }
         return dummy->next;
     }
 };

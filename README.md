@@ -55,6 +55,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xyraveil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Xyraveil/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -62,6 +63,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Xyraveil/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers

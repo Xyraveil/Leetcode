@@ -41,6 +41,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0833-bus-routes](https://github.com/Xyraveil/Leetcode/tree/master/0833-bus-routes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Xyraveil/Leetcode/tree/master/1036-rotting-oranges) |
+| [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Xyraveil/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Xyraveil/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Xyraveil/Leetcode/tree/master/1036-rotting-oranges) |
+| [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 ## Topological Sort
 |  |
 | ------- |
@@ -141,6 +143,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
+| [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 ## Sorting
 |  |
 | ------- |

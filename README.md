@@ -45,6 +45,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Xyraveil/Leetcode/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0833-bus-routes](https://github.com/Xyraveil/Leetcode/tree/master/0833-bus-routes) |
 ## Prefix Sum
@@ -57,6 +58,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xyraveil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Xyraveil/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/Xyraveil/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -154,9 +156,14 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Xyraveil/Leetcode/tree/master/0146-lru-cache) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Xyraveil/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

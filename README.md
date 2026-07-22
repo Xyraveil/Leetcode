@@ -148,6 +148,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 ## Sorting
@@ -164,6 +165,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0009-palindrome-number](https://github.com/Xyraveil/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Design
 |  |
@@ -186,4 +188,8 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

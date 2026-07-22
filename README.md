@@ -80,6 +80,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Xyraveil/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Xyraveil/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
@@ -169,4 +170,8 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Xyraveil/Leetcode/tree/master/0146-lru-cache) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Xyraveil/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

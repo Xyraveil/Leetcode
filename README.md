@@ -32,6 +32,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Xyraveil/Leetcode/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -46,6 +47,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Xyraveil/Leetcode/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Xyraveil/Leetcode/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0833-bus-routes](https://github.com/Xyraveil/Leetcode/tree/master/0833-bus-routes) |

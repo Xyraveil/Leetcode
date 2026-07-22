@@ -17,6 +17,6 @@ public:
             else if(sum>target) r--;
             else l++;
        }
-       return {0,0};
+       return {};
     }
 };

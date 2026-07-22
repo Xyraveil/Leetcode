@@ -145,6 +145,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 ## Sorting
@@ -159,6 +160,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Xyraveil/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Design
 |  |
@@ -177,4 +179,8 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Xyraveil/Leetcode/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

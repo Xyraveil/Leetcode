@@ -158,6 +158,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Xyraveil/Leetcode/tree/master/0009-palindrome-number) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Design
 |  |

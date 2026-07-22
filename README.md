@@ -33,6 +33,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Xyraveil/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -74,6 +75,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xyraveil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -151,6 +153,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |

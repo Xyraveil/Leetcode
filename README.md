@@ -71,6 +71,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Xyraveil/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Xyraveil/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0009-palindrome-number](https://github.com/Xyraveil/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Xyraveil/Leetcode/tree/master/0231-power-of-two) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Design
 |  |
@@ -193,4 +195,8 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Xyraveil/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

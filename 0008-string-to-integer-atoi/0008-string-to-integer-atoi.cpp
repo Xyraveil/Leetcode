@@ -3,55 +3,28 @@ public:
     int myAtoi(string s) {
         int n = s.size();
         long long ans = 0;
-        bool negga = false;
-        int len = 0;
-        int ind = 0;
-        for (auto c : s) {
-            if (c - '0' >= 0 && c - '0' <= 9) {
-                break;
-            } else if (c == '-') {
-                negga = true;
-                ind++;
-                break;
-            } else if (c == '+') {
-                ind++;
-                break;
-            } else if (c == ' ') {
-                ind++;
-                continue;
-            }
+        int negga = 1;
+        int i =0;
+        while( i<n && s[i]==' ') i++;
+        if(i==s.size()) return 0;
+        if(s[i]=='-')
+        {
+            negga = -1;
+            i++;
         }
-        for (int i = ind; i < n; i++) {
-            char c = s[i];
-            if (c - '0' >= 0 && c - '0' <= 9) {
-                if (len == 10 || ans/10 > INT_MAX / 10) {
-                    if (negga)
-                        return INT_MIN;
-                    else
-                        return INT_MAX;
-                }
-                else if(ans/10 == INT_MAX / 10)
-                {
-                    if(c-'0'>=7) 
-                    {
-                        if(negga) 
-                        if(c-'0'>=8) return INT_MIN;
-                        else return -INT_MAX;
+        else if(s[i]=='+')
+        {
+            i++;
+        }
 
-                        else return INT_MAX;
-                    }
-                }
-                ans += c - '0';
-                ans *= 10;
-                if (ans > 0)
-                    len++;
-            } else {
-                break;
-            }
+        while(i<n && isdigit(s[i]))
+        {
+            ans = ans*10 + (s[i]-'0');
+
+            if(negga*ans >INT_MAX) return INT_MAX;
+            if(negga*ans <INT_MIN) return INT_MIN;
+            i++;
         }
-        ans /= 10;
-        if (negga)
-            ans *= -1;
-        return ans;
+        return (int)(negga*ans);
     }
 };

@@ -184,6 +184,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Xyraveil/Leetcode/tree/master/0020-valid-parentheses) |
+| [3451-string-compression-iii](https://github.com/Xyraveil/Leetcode/tree/master/3451-string-compression-iii) |
 ## Combinatorics
 |  |
 | ------- |

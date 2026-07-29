@@ -37,6 +37,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/Xyraveil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0001-two-sum](https://github.com/Xyraveil/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Xyraveil/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Xyraveil/Leetcode/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/Xyraveil/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Xyraveil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0833-bus-routes](https://github.com/Xyraveil/Leetcode/tree/master/0833-bus-routes) |
 ## Prefix Sum
@@ -164,6 +166,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Xyraveil/Leetcode/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
@@ -215,4 +218,8 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Xyraveil/Leetcode/tree/master/0190-reverse-bits) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Xyraveil/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

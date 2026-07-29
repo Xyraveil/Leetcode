@@ -191,6 +191,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Xyraveil/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Xyraveil/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Xyraveil/Leetcode/tree/master/0344-reverse-string) |
 | [3451-string-compression-iii](https://github.com/Xyraveil/Leetcode/tree/master/3451-string-compression-iii) |

@@ -34,6 +34,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/Xyraveil/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0384-shuffle-an-array](https://github.com/Xyraveil/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -82,6 +83,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xyraveil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Xyraveil/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Xyraveil/Leetcode/tree/master/0344-reverse-string) |
@@ -161,6 +163,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |

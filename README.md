@@ -36,6 +36,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Xyraveil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Xyraveil/Leetcode/tree/master/0229-majority-element-ii) |
@@ -161,6 +162,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Xyraveil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 ## Sorting

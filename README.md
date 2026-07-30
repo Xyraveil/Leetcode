@@ -34,6 +34,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/Xyraveil/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Xyraveil/Leetcode/tree/master/0200-number-of-islands) |
@@ -157,6 +158,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
@@ -217,6 +219,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Xyraveil/Leetcode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |

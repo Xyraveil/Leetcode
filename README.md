@@ -34,6 +34,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/Xyraveil/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Xyraveil/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xyraveil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xyraveil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Xyraveil/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Xyraveil/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Xyraveil/Leetcode/tree/master/0141-linked-list-cycle) |

@@ -38,6 +38,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Xyraveil/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Xyraveil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xyraveil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Xyraveil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Xyraveil/Leetcode/tree/master/0130-surrounded-regions) |
@@ -172,6 +173,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Xyraveil/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Xyraveil/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Xyraveil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xyraveil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |

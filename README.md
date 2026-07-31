@@ -36,6 +36,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Xyraveil/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Xyraveil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Xyraveil/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Xyraveil/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Xyraveil/Leetcode/tree/master/0118-pascals-triangle) |
@@ -181,6 +182,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Xyraveil/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Xyraveil/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Xyraveil/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Xyraveil/Leetcode/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |

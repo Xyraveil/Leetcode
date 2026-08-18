@@ -120,6 +120,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0210-course-schedule-ii](https://github.com/Xyraveil/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Xyraveil/Leetcode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Xyraveil/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1300-critical-connections-in-a-network](https://github.com/Xyraveil/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Breadth-First Search
@@ -132,6 +133,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0542-01-matrix](https://github.com/Xyraveil/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Xyraveil/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Xyraveil/Leetcode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Xyraveil/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0833-bus-routes](https://github.com/Xyraveil/Leetcode/tree/master/0833-bus-routes) |
 | [1036-rotting-oranges](https://github.com/Xyraveil/Leetcode/tree/master/1036-rotting-oranges) |
@@ -248,4 +250,16 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Xyraveil/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->

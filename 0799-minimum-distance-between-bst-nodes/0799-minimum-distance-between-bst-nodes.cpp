@@ -11,27 +11,21 @@
  */
 class Solution {
 public:
-    void asdf(TreeNode* root,vector<int> & mn)
+    void asdf(TreeNode* root,int& prev,int&mn)
     {
-        if(!root) return;
-        if(root->left)
-        {         
-            asdf(root->left,mn);
-        }
-        mn.emplace_back(root->val);
-        if(root->right)
-        {
-            asdf(root->right,mn);
-        }
+        if(!root) return;      
+
+        asdf(root->left,prev,mn);
+        if(prev!=INT_MIN)
+        mn = min(mn,(root->val)-prev);
+        prev = root->val;
+        asdf(root->right,prev,mn);
+        
     }
     int minDiffInBST(TreeNode* root) {
-        vector<int> A;
-        asdf(root,A);
-        int x = INT_MAX;
-        for(int i =0;i<A.size()-1;i++)
-        {
-            x = min(x,A[i+1]-A[i]);
-        }
-        return x;
+        int prev = INT_MIN;
+        int mn = INT_MAX;
+        asdf(root,prev,mn);
+        return mn;
     }
 };

@@ -53,6 +53,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | [0833-bus-routes](https://github.com/Xyraveil/Leetcode/tree/master/0833-bus-routes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Xyraveil/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Xyraveil/Leetcode/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Xyraveil/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1234-number-of-paths-with-max-score](https://github.com/Xyraveil/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Xyraveil/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Xyraveil/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -110,6 +111,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Xyraveil/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Xyraveil/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Xyraveil/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Xyraveil/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
@@ -194,6 +196,7 @@ The repository is continuously updated as I solve more problems on LeetCode.
 ## Monotonic Stack
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Xyraveil/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Xyraveil/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
@@ -254,12 +257,15 @@ The repository is continuously updated as I solve more problems on LeetCode.
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Xyraveil/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Xyraveil/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Xyraveil/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Xyraveil/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

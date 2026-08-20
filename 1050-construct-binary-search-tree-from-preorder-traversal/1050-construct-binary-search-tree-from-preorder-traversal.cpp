@@ -11,27 +11,14 @@
  */
 class Solution {
 public:
-    void asdf(int start,int end, int& ind, vector<int>& pre,TreeNode* curr)
+    TreeNode* asdf(int start,int end, int& ind, vector<int>& pre)
     {
-        int mid = curr->val;
-        if(ind+1>= pre.size()) return;
-        int nxt = pre[ind+1];
-        if(nxt>start && nxt<mid)
-        {
-            ind++;
-            curr->left = new TreeNode(nxt);
-            asdf(start,mid,ind,pre,curr->left);
-
-        }
-        if(ind+1>= pre.size()) return;
-        nxt = pre[ind+1];
-        if(nxt>mid && nxt<end)
-        {
-            ind++;
-            curr->right = new TreeNode(nxt);
-            asdf(mid,end,ind,pre,curr->right);
-        }
-
+        if(ind== pre.size() || pre[ind]>end || start>pre[ind]) return nullptr;
+        int nxt = pre[ind++];
+        TreeNode* root = new TreeNode(nxt);
+        root->left =  asdf(start,nxt,ind,pre);
+        root->right =  asdf(nxt,end,ind,pre);
+        return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
         // vector<int> inorder=preorder;
@@ -74,7 +61,6 @@ public:
         // return root;
         TreeNode* head = new TreeNode(preorder[0]);
         int ind = 0;
-        asdf(INT_MIN,INT_MAX,ind,preorder,head);
-        return head;
+        return asdf(INT_MIN,INT_MAX,ind,preorder);
     }
 };

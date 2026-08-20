@@ -11,44 +11,70 @@
  */
 class Solution {
 public:
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int> inorder=preorder;
-        sort(inorder.begin(),inorder.end());
-        TreeNode* root = new TreeNode(preorder[0]);
-        int n = preorder.size();
-        for(int i =1;i<n;i++)
+    void asdf(int start,int end, int& ind, vector<int>& pre,TreeNode* curr)
+    {
+        int mid = curr->val;
+        if(ind+1>= pre.size()) return;
+        int nxt = pre[ind+1];
+        if(nxt>start && nxt<mid)
         {
-            int x = preorder[i];
-            TreeNode*curr = root;
-            while(true)
-            {
-                if(curr->val < x)
-                {
-                    if(curr->right)
-                    {
-                        curr = curr->right;
-                    }
-                    else
-                    {
-                        curr->right = new TreeNode(x);
-                        break;
-                    }
-                }
-                else
-                {
-                    if(curr->left)
-                    {
-                        curr = curr->left;
-                    }
-                    else 
-                    {
-                        curr->left = new TreeNode(x);
-                        break;
-                    }
-                }
-            }
-            
+            ind++;
+            curr->left = new TreeNode(nxt);
+            asdf(start,mid,ind,pre,curr->left);
+
         }
-        return root;
+        if(ind+1>= pre.size()) return;
+        nxt = pre[ind+1];
+        if(nxt>mid && nxt<end)
+        {
+            ind++;
+            curr->right = new TreeNode(nxt);
+            asdf(mid,end,ind,pre,curr->right);
+        }
+
+    }
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        // vector<int> inorder=preorder;
+        // sort(inorder.begin(),inorder.end());
+        // TreeNode* root = new TreeNode(preorder[0]);
+        // int n = preorder.size();
+        // for(int i =1;i<n;i++)
+        // {
+        //     int x = preorder[i];
+        //     TreeNode*curr = root;
+        //     while(true)
+        //     {
+        //         if(curr->val < x)
+        //         {
+        //             if(curr->right)
+        //             {
+        //                 curr = curr->right;
+        //             }
+        //             else
+        //             {
+        //                 curr->right = new TreeNode(x);
+        //                 break;
+        //             }
+        //         }
+        //         else
+        //         {
+        //             if(curr->left)
+        //             {
+        //                 curr = curr->left;
+        //             }
+        //             else 
+        //             {
+        //                 curr->left = new TreeNode(x);
+        //                 break;
+        //             }
+        //         }
+        //     }
+            
+        // }
+        // return root;
+        TreeNode* head = new TreeNode(preorder[0]);
+        int ind = 0;
+        asdf(INT_MIN,INT_MAX,ind,preorder,head);
+        return head;
     }
 };
